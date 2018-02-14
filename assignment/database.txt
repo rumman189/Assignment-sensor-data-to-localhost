@@ -1,0 +1,30 @@
+Wed Nov 15 2017 02:37:24 GMT+0600 (Bangladesh Standard Time), line 1, 40.67 C
+Wed Nov 15 2017 02:37:25 GMT+0600 (Bangladesh Standard Time), line 1, 9.55
+Wed Nov 15 2017 02:37:25 GMT+0600 (Bangladesh Standard Time), line 2, 40.01 C
+Wed Nov 15 2017 02:37:26 GMT+0600 (Bangladesh Standard Time), line 1, 44.70%
+Wed Nov 15 2017 02:37:26 GMT+0600 (Bangladesh Standard Time), line 3, 30.14 C
+Wed Nov 15 2017 02:37:27 GMT+0600 (Bangladesh Standard Time), line 2, 83.87
+Wed Nov 15 2017 02:37:27 GMT+0600 (Bangladesh Standard Time), line 4, 44.45 C
+Wed Nov 15 2017 02:37:28 GMT+0600 (Bangladesh Standard Time), line 5, 30.93 C
+Wed Nov 15 2017 02:37:29 GMT+0600 (Bangladesh Standard Time), line 2, 46.35%
+Wed Nov 15 2017 02:37:29 GMT+0600 (Bangladesh Standard Time), line 3, 24.14
+Wed Nov 15 2017 02:37:29 GMT+0600 (Bangladesh Standard Time), line 6, 31.20 C
+Wed Nov 15 2017 02:37:30 GMT+0600 (Bangladesh Standard Time), line 7, 37.74 C
+Wed Nov 15 2017 02:37:31 GMT+0600 (Bangladesh Standard Time), line 4, 4.85
+Wed Nov 15 2017 02:37:31 GMT+0600 (Bangladesh Standard Time), line 8, 39.94 C
+Wed Nov 15 2017 02:37:32 GMT+0600 (Bangladesh Standard Time), line 3, 84.65%
+Wed Nov 15 2017 02:37:32 GMT+0600 (Bangladesh Standard Time), line 9, 43.51 C
+Wed Nov 15 2017 02:37:33 GMT+0600 (Bangladesh Standard Time), line 5, 19.14
+Wed Nov 15 2017 02:37:33 GMT+0600 (Bangladesh Standard Time), line 10, 39.59 C
+Wed Nov 15 2017 02:37:35 GMT+0600 (Bangladesh Standard Time), line 4, 57.90%
+Wed Nov 15 2017 02:37:35 GMT+0600 (Bangladesh Standard Time), line 6, 89.74
+Wed Nov 15 2017 02:37:37 GMT+0600 (Bangladesh Standard Time), line 7, 87.09
+Wed Nov 15 2017 02:37:38 GMT+0600 (Bangladesh Standard Time), line 5, 59.00%
+Wed Nov 15 2017 02:37:39 GMT+0600 (Bangladesh Standard Time), line 8, 10.71
+Wed Nov 15 2017 02:37:41 GMT+0600 (Bangladesh Standard Time), line 6, 74.61%
+Wed Nov 15 2017 02:37:41 GMT+0600 (Bangladesh Standard Time), line 9, 27.03
+Wed Nov 15 2017 02:37:43 GMT+0600 (Bangladesh Standard Time), line 10, 95.88
+Wed Nov 15 2017 02:37:44 GMT+0600 (Bangladesh Standard Time), line 7, 62.68%
+Wed Nov 15 2017 02:37:47 GMT+0600 (Bangladesh Standard Time), line 8, 97.76%
+Wed Nov 15 2017 02:37:50 GMT+0600 (Bangladesh Standard Time), line 9, 46.46%
+Wed Nov 15 2017 02:37:53 GMT+0600 (Bangladesh Standard Time), line 10, 45.43%
